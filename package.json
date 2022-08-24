@@ -1,0 +1,23 @@
+{
+  "name": "Unit-testing-Practice-",
+  "version": "1.0.0",
+  "description": "In this project, I practice carrying out unit testing on JavaScript codes using the Jest Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarMindz/Unit-testing-Practice-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarMindz/Unit-testing-Practice-/issues"
+  },
+  "homepage": "https://github.com/StarMindz/Unit-testing-Practice-#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
